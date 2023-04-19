@@ -1,0 +1,4 @@
+[16-Apr-2023 18:11:51 UTC] PHP Fatal error:  Allowed memory size of 134217728 bytes exhausted (tried to allocate 65028096 bytes) in /home/asif/www/bedrock/web/app/cache/acorn/framework/views/fd948d157d990d3eee0bebae712803fa2f79d97b.php on line 194
+[16-Apr-2023 18:11:51 UTC] PHP Fatal error:  Allowed memory size of 134217728 bytes exhausted (tried to allocate 65015808 bytes) in /home/asif/www/bedrock/web/wp/wp-includes/functions.php on line 5279
+[16-Apr-2023 18:12:14 UTC] PHP Fatal error:  Allowed memory size of 134217728 bytes exhausted (tried to allocate 73416704 bytes) in /home/asif/www/bedrock/web/app/cache/acorn/framework/views/fd948d157d990d3eee0bebae712803fa2f79d97b.php on line 194
+[16-Apr-2023 18:12:14 UTC] PHP Fatal error:  Allowed memory size of 134217728 bytes exhausted (tried to allocate 73404416 bytes) in /home/asif/www/bedrock/web/wp/wp-includes/functions.php on line 5279

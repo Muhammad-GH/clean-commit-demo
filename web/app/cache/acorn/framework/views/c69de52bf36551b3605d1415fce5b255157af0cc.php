@@ -1,0 +1,1 @@
+<?php /**PATH /home/asif/www/bedrock/web/app/themes/arxoft-cc-wp/resources/views/sections/front-features.blade.php ENDPATH**/ ?>

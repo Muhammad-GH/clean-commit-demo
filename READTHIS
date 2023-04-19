@@ -1,0 +1,34 @@
+# Bedrock
+
+- composer create-project roots/bedrock .
+- create virtual host to point at /web folder.
+- edit .env and put salts: https://roots.io/salts.html
+- run the URL and proceed install
+
+# Acorn
+
+- composer require roots/acorn
+- add following in "scripts" of composer.json:
+
+```
+"post-autoload-dump": [
+  "Roots\\Acorn\\ComposerScripts::postAutoloadDump"
+]
+```
+
+# Sage
+
+- cd in to web/app/themes
+- composer create-project roots/sage
+- cd sage
+- yarn
+- edit bud.config.js, set URL 
+- yarn dev
+- go /wp-admin and activate sage theme
+
+
+
+
+- After replacing Tailwind with Bootstrap from https://roots.io/sage/docs/replacing-tailwind-with-bootstrap/
+- Life savers: yarn add @roots/bud-postcss --dev
+- Also make sure all @root version match
